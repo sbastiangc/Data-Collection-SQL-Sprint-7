@@ -13,4 +13,4 @@ By working with a database, you'll analyze competitors' data and test a hypothes
 **weather_records:** Climate conditions on each hour.
 
 # SQL model:
-![alt text]([http://url/to/img.png](https://practicum-content.s3.us-west-1.amazonaws.com/resources/moved_Untitled_1_1585510727.png))
+![alt text](https://practicum-content.s3.us-west-1.amazonaws.com/resources/moved_Untitled_1_1585510727.png))
